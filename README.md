@@ -1,4 +1,4 @@
-### Hi there, I am Goutam 👋 
+### Hi there, I am Goutam Adwant 👋 
 
 ## 
 - 🔭 I’m currently working as Microservices developer for a cloud-based platform provider for the mortgage finance industry - EllieMae.
