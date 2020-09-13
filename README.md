@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: adwant.goutam@gmail.com
 
-<img align="left" alt="Goutam's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=adwantgoutam&show_icons=true&hide_border=true" />
+<img align="left" alt="Goutam's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=adwantgoutam&show_icons=true&hide_border=true&theme=merko" />
 <br/>
